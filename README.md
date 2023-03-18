@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer who enjoys trying something new.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on **ReactJS**<br>✍️ I regularly write articles on [siber.dev](siber.dev)<br>⚡ I'm a fan of LOTR and HP.<br>💬 Mail: volkan@siber.dev
+🔭 I’m currently working on **ReactJS**<br>✍️ I regularly write articles on [siber.dev](https://siber.dev)<br>⚡ I'm a fan of LOTR and HP.<br>💬 Mail: volkan@siber.dev
 
 
 ## 🌐 Socials:
